@@ -13,7 +13,7 @@
         android:theme="@style/Theme.MyApplication"
         tools:targetApi="34">
         <activity
-            android:name=".root"
+            android:name=".RootActivity"
             android:exported="false" />
         <activity
             android:name=".MainActivity"
